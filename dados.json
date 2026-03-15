@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "cliente 1 ",
+        "cpf": "111",
+        "telefone": "111111111111111",
+        "email": "111@gmail.com"
+    },
+    {
+        "nome": "cliente 2",
+        "cpf": "222",
+        "telefone": "22222222222",
+        "email": "222@gmail.com"
+    },
+    {
+        "nome": "cliente 3",
+        "cpf": "333",
+        "telefone": "333333333",
+        "email": "333@gmail.com"
+    },
+    {
+        "nome": "cliente 4",
+        "cpf": "444",
+        "telefone": "44444444",
+        "email": "444@gmail.com"
+    },
+    {
+        "nome": "cliente 5",
+        "cpf": "555",
+        "telefone": "5555555",
+        "email": "555@gmail.com"
+    }
+]

@@ -12,3 +12,4 @@ Simple CRUD client management system (create, read, update, delete) in Python us
 ## Technologies
 - Python
 - JSON file storage
+<img width="762" height="364" alt="Image" src="https://github.com/user-attachments/assets/ec6c621c-b813-4fe2-bdb4-bb3c4daf5205" />
